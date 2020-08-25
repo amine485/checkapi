@@ -1,0 +1,8 @@
+.color{color: transparent;}
+.bg{
+    background-color: orange;
+    background-attachment: fixed;
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0%;
+}
